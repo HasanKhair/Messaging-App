@@ -1,0 +1,14 @@
+/Users/user/VSCode/TestApp/bin/Debug/net9.0/TestApp
+/Users/user/VSCode/TestApp/bin/Debug/net9.0/TestApp.deps.json
+/Users/user/VSCode/TestApp/bin/Debug/net9.0/TestApp.runtimeconfig.json
+/Users/user/VSCode/TestApp/bin/Debug/net9.0/TestApp.dll
+/Users/user/VSCode/TestApp/bin/Debug/net9.0/TestApp.pdb
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfoInputs.cache
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.AssemblyInfo.cs
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.dll
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/refint/TestApp.dll
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.pdb
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/TestApp.genruntimeconfig.cache
+/Users/user/VSCode/TestApp/obj/Debug/net9.0/ref/TestApp.dll
