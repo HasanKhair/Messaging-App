@@ -1,0 +1,14 @@
+/Users/user/VSCode/ChatClient/bin/Debug/net9.0/ChatClient
+/Users/user/VSCode/ChatClient/bin/Debug/net9.0/ChatClient.deps.json
+/Users/user/VSCode/ChatClient/bin/Debug/net9.0/ChatClient.runtimeconfig.json
+/Users/user/VSCode/ChatClient/bin/Debug/net9.0/ChatClient.dll
+/Users/user/VSCode/ChatClient/bin/Debug/net9.0/ChatClient.pdb
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfoInputs.cache
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.AssemblyInfo.cs
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.dll
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/refint/ChatClient.dll
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.pdb
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ChatClient.genruntimeconfig.cache
+/Users/user/VSCode/ChatClient/obj/Debug/net9.0/ref/ChatClient.dll
