@@ -1,0 +1,14 @@
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.AssemblyInfoInputs.cache
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.AssemblyInfo.cs
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.csproj.CoreCompileInputs.cache
+/Users/user/VSCode/ChatServer/bin/Debug/net9.0/ChatServer
+/Users/user/VSCode/ChatServer/bin/Debug/net9.0/ChatServer.deps.json
+/Users/user/VSCode/ChatServer/bin/Debug/net9.0/ChatServer.runtimeconfig.json
+/Users/user/VSCode/ChatServer/bin/Debug/net9.0/ChatServer.dll
+/Users/user/VSCode/ChatServer/bin/Debug/net9.0/ChatServer.pdb
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.dll
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/refint/ChatServer.dll
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.pdb
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ChatServer.genruntimeconfig.cache
+/Users/user/VSCode/ChatServer/obj/Debug/net9.0/ref/ChatServer.dll
